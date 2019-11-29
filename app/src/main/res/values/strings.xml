@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Google Signin</string>
+    <string name="sign_in">Google Sign in</string>
+    <string name="sign_out">Google Sign out</string>
+
+    <string name="user_id">ID</string>
+    <string name="user_display_name">Display Name</string>
+    <string name="user_full_name">Full Name</string>
+    <string name="user_email">Email</string>
+    <string name="message_picasso_success">onSuccess</string>
+    <string name="message_picasso_error">An error occurred</string>
+    <string name="message_google_signout">Google Sign Out done.</string>
+    <string name="message_google_signin">Google Sign In Successful.</string>
+    <string name="message_google_revoke">Google access revoked.</string>
+</resources>
